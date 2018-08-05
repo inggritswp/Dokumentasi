@@ -1,7 +1,7 @@
 https://www.hostinger.co.id/tutorial/cara-menggunakan-github-perintah-dasar-github/
 
 download 
-git clone https://github.com/rikyperdana/aplikasi.git //untuk checkout repositori. Jia repositori berada di remove server, 
+git clone https://github.com/inggritswp/aplikasi.git //untuk checkout repositori. Jia repositori berada di remove server, 
 
 Upload project
 Di web github, login dan create repository baru sesuai nama aplikasi
